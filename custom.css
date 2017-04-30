@@ -1,0 +1,37 @@
+
+td.tocDivNum
+{
+    width: 20%;
+}
+
+.xlargetitle
+{
+    font-size: xx-large;
+    line-height: 200%;
+    font-variant: small-caps;
+}
+
+.largetitle
+{
+    font-size: larger;
+    line-height: 150%;
+    font-variant: small-caps;
+}
+
+.smallcontents
+{
+    font-size: small;
+    text-indent: -1em;
+    margin-left: 1em;
+}
+
+.subtext
+{
+    margin-left: 1em;
+}
+
+.smallsubtext
+{
+    font-size: small;
+    margin-left: 1em;
+}
